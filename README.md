@@ -33,3 +33,18 @@ Initial contract release: **April 2026 (post audit)**
 ## Website
 
 https://forgeatlas.com
+
+## Architecture Overview
+
+Forge Atlas provides programmable economic infrastructure for applications and games.
+
+The system allows developers to define:
+
+• asset minting rules  
+• balance management  
+• spending logic  
+• settlement and redemption flows  
+
+Contracts are designed to support modular integrations such as shops, reward systems, and programmable asset economies.
+
+Full architecture documentation will be released alongside the audited contracts.
